@@ -1,13 +1,46 @@
 # Claude Skills Library
 
-This repository contains custom Claude skills for premium web, motion, 3D, and brand-direction workflows.
+This repository contains custom Claude skills for premium web, motion, 3D, brand strategy, architecture, and review workflows.
 
-## Skills
+## Skill ecosystem
 
+### Creative direction
+- creative-director
 - cinematic-web-director
+- enterprise-saas-designer
+- landing-page-architect
+
+### Motion and 3D
 - motion-language
 - 3d-experience-designer
-- premium-brand-storytelling
-- awwwards-reviewer
+- gsap-master
+- threejs-architect
+- react-three-fiber-expert
+- webgl-scene-designer
+- shader-designer
+- lighting-director
+- material-designer
+- camera-director
 
-Each skill lives in its own folder with a `SKILL.md` file.
+### Brand and content
+- premium-brand-storytelling
+- typography-director
+- design-system-architect
+- visual-language-designer
+- copy-hierarchy-designer
+
+### Review and quality
+- awwwards-reviewer
+- creative-critic
+- ux-qa-reviewer
+- motion-qa-reviewer
+- performance-auditor
+- accessibility-expert
+
+### Architecture and implementation
+- frontend-architect
+- responsive-layout-expert
+- animation-performance-expert
+- component-architect
+
+The skills are designed to cross-reference one another so Claude can behave like a coordinated creative studio instead of a single generic assistant.
