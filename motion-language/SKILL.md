@@ -1,21 +1,62 @@
 ---
 name: motion-language
-description: Defines premium motion principles for scroll-triggered reveals, timing, easing, orchestration, and cinematic interface transitions.
+description: Use this skill when the user wants premium motion principles for scroll-triggered reveals, timing, easing, orchestration, cinematic interface transitions, interaction choreography, or a deliberate motion system for a premium digital experience.
 ---
 
 # Motion Language
 
-You define the motion system for premium digital experiences.
+## Mission
 
-## Purpose
+Define motion as a design language, not decoration.
 
-This skill exists to shape motion as a design language, not as decoration.
+This skill exists to shape timing, pacing, transitions, reveals, and interaction behavior so the entire experience feels intentionally choreographed.
 
-It should be used when the experience needs scroll-driven choreography, refined transitions, layered timing, or cinematic interaction logic.
+A strong motion system should help the user understand hierarchy, progression, story, and spatial depth.
 
-## Motion principles
+Motion should not simply make things move. It should make the interface feel alive, legible, and premium.
 
-Motion must feel:
+## What this skill is for
+
+Use this skill when the user is asking for any of the following:
+
+- scroll-driven choreography
+- cinematic transitions
+- refined reveal patterns
+- premium microinteractions
+- motion system direction
+- pacing and easing guidance
+- layered motion logic
+- interaction design with depth
+- animation hierarchy for a website
+- motion that feels sophisticated instead of playful
+
+## When to use the skill
+
+Use this skill when motion itself is part of the design challenge.
+
+Examples:
+
+- a landing page needs a motion strategy
+- a website needs scroll-based section choreography
+- the user wants animation that feels high-end and controlled
+- the user wants motion to support storytelling
+- the experience needs a consistent animation language across sections
+- the site should feel immersive rather than static
+
+## When not to use the skill
+
+Do not use this skill when the request is only for:
+
+- a plain layout with no motion direction
+- a copy-only edit
+- a simple content change
+- a technical implementation issue unrelated to animation behavior
+
+If the motion aspect is not central, use a different skill.
+
+## Core motion philosophy
+
+Motion should feel:
 
 - intentional
 - continuous
@@ -25,10 +66,14 @@ Motion must feel:
 - premium
 - spatial
 - controlled
+- meaningful
+- supportive of the story
 
-Every animation should help the user understand hierarchy, progression, and story.
+Avoid motion that exists only because motion is possible.
 
-## Core approach
+Every animation should earn its place by improving clarity, atmosphere, or narrative flow.
+
+## Primary principle
 
 Think in sequences rather than individual effects.
 
@@ -44,32 +89,62 @@ Instead, design motion as a system with:
 - exit
 - handoff
 
-The goal is to make motion feel like part of the interface architecture.
+This sequence-based approach helps the user feel a coherent experience instead of a collection of effects.
 
-## Prefer
+## Motion as architecture
 
-Prefer motion patterns such as:
+Motion should feel like part of the interface structure.
 
-- scroll-triggered orchestration
-- layered parallax
-- depth-based movement
-- camera-like motion
-- staggered reveal sequences
-- subtle interactive response
-- object drift and float
-- scene-to-scene continuity
-- motion that reinforces storytelling
+It should not sit on top of the design like an afterthought.
 
-## Avoid
+When done well, motion:
 
-Avoid motion patterns that feel like generic template defaults, including:
+- creates hierarchy
+- directs attention
+- gives spatial depth
+- reinforces rhythm
+- connects sections
+- strengthens brand perception
 
-- random movement with no purpose
-- excessive bounce or playful easing
-- repetitive page-builder transitions
-- motion that makes text hard to read
-- over-animated sections with no narrative value
-- transitions that interrupt understanding instead of improving it
+## Core motion qualities
+
+Good premium motion usually has these qualities:
+
+### Continuity
+The user should feel like the experience flows from one state to another without disjointed jumps.
+
+### Precision
+The motion should feel engineered and deliberate rather than random.
+
+### Restraint
+Premium motion is often more controlled than loud.
+
+### Spatial logic
+Motion should help the user understand where things are in relation to one another.
+
+### Timing discipline
+Motion timing should create rhythm, not chaos.
+
+### Emotional support
+Motion should match the brand tone and the section’s purpose.
+
+## Motion hierarchy
+
+Not every object should move the same way.
+
+Create layers of motion priority:
+
+- primary motion for the main story or hero content
+- secondary motion for supporting details
+- ambient motion for atmosphere and depth
+- micro-motion for feedback and polish
+- background motion for spatial life
+
+This separation creates clarity and realism.
+
+When everything moves equally, the experience becomes noisy.
+
+When motion is layered carefully, the user instantly knows what matters most.
 
 ## Scroll behavior
 
@@ -81,7 +156,19 @@ Motion should evolve as the user progresses.
 
 Different sections may have different pacing, but the overall experience should remain one cohesive motion story.
 
+Think of scrolling as a camera move and a story beat at the same time.
+
+Scrolling should be able to:
+
+- reveal information gradually
+- shift focus from one object to another
+- move the camera forward or sideways
+- change the spatial relationship between elements
+- introduce a new scene without breaking continuity
+
 ## Timing logic
+
+Timing is one of the strongest tools in motion design.
 
 Use timing to support emotional rhythm.
 
@@ -94,6 +181,14 @@ Use the right pacing for the brand:
 - slow enough to feel premium
 - smooth enough to feel engineered
 
+Consider the emotional meaning of speed:
+
+- quick motion can feel sharp, efficient, and energetic
+- medium-paced motion can feel balanced and confident
+- slower motion can feel luxurious, cinematic, and expansive
+
+The timing should match what the brand wants the user to feel.
+
 ## Easing philosophy
 
 Use easing curves deliberately.
@@ -104,30 +199,24 @@ Prefer transitions that feel physically credible and visually controlled.
 
 The easing should help the user feel spatial continuity and premium polish.
 
-## Motion hierarchy
+A thoughtful easing curve can make a small interaction feel luxurious.
+A poor easing curve can make even a beautiful layout feel cheap.
 
-Not every object should move the same way.
+## Motion rhythm
 
-Create layers of motion priority:
+A premium motion system often alternates between:
 
-- primary motion for the main story
-- secondary motion for supporting elements
-- ambient motion for atmosphere
-- micro-motion for feedback and detail
+- motion and stillness
+- density and openness
+- tension and release
+- anticipation and reveal
+- foreground emphasis and background atmosphere
 
-This separation creates depth and realism.
+This rhythm keeps the experience engaging without exhausting the user.
 
-## Interaction model
+Avoid constant movement without pause.
 
-Where relevant, motion should respond to:
-
-- scroll position
-- pointer movement
-- viewport changes
-- user focus
-- device constraints
-
-Interaction should feel alive without becoming distracting.
+The user should have moments where the composition breathes.
 
 ## Reveal strategy
 
@@ -142,8 +231,14 @@ Prefer combinations of:
 - lighting or glow changes
 - parallax reveal
 - camera push-in
+- layered entrances
+- material changes
+- spatial reorientation
 
 Every reveal should feel deliberate.
+
+The reveal should not merely show content.
+It should establish importance and create a sense of arrival.
 
 ## Section choreography
 
@@ -156,19 +251,159 @@ Define for each section:
 - emphasis moment
 - exit behavior
 - transition logic into the next section
+- what moves first
+- what moves last
+- what remains still as an anchor
 
 This keeps the experience cohesive but not repetitive.
 
-## Quality standard
+A section can be calm, dramatic, technical, or emotional, but it should still feel related to the broader motion language.
 
-Before approving motion, verify that it is:
+## Interaction model
 
-- readable
-- elegant
+Where relevant, motion should respond to:
+
+- scroll position
+- pointer movement
+- viewport changes
+- user focus
+- device constraints
+- reduced motion preferences
+
+Interaction should feel alive without becoming distracting.
+
+Pointer or cursor movement should be subtle enough to feel premium.
+
+A good interaction response makes the experience feel present and responsive.
+A bad one makes it feel like a demo.
+
+## Ambient motion
+
+Ambient motion is important in premium experiences.
+
+This includes:
+
+- drifting background elements
+- slow parallax layers
+- subtle floating objects
+- gentle texture movement
+- barely perceptible glow shifts
+- atmospheric particle drift
+
+Ambient motion creates life without stealing attention.
+
+Use it to support a sense of world-building.
+
+## Micro-interactions
+
+Micro-interactions should feel polished and calm.
+
+They can communicate:
+
+- hover feedback
+- selection state
+- button readiness
+- focus indication
+- control response
+- hierarchy changes
+
+Micro-interactions should improve usability, not just look nice.
+
+The best micro-interactions feel so natural that the user barely notices them unless they are missing.
+
+## Motion and readability
+
+Motion must never damage clarity.
+
+Always preserve:
+
+- legibility
+- contrast
+- hierarchy
+- focus
+- pacing
+- content comprehension
+
+If motion competes with text, reduce it.
+If motion distracts from the main message, simplify it.
+If motion is unclear, make the cause and effect more obvious.
+
+## Premium motion standards
+
+Good premium motion usually feels:
+
+- editorial
+- cinematic
+- deliberate
 - smooth
-- brand-aligned
-- consistent
-- immersive
-- performance-aware
+- polished
+- sophisticated
+- expensive
+- engineered
+- controlled
+- meaningful
 
-If motion feels generic, simplify and refine until it feels premium.
+Avoid motion that feels like generic component library defaults.
+
+Avoid motion that is designed to impress for a second but weakens the overall experience.
+
+The user should feel that the motion was crafted as part of the brand, not pasted onto the page.
+
+## Common failure modes
+
+Watch out for these issues:
+
+- too many things moving at once
+- motion without narrative purpose
+- overuse of bounce or playful easing
+- timing that feels rushed or awkward
+- reveals that are too similar from section to section
+- motion that breaks the reading flow
+- effects that look cinematic but reduce clarity
+- transitions that feel disconnected from the content
+- motion that is heavy on desktop but fails on mobile
+
+## How to refine motion
+
+When motion feels weak, check:
+
+1. Is the motion serving a purpose?
+2. Is the timing appropriate to the tone?
+3. Is there enough hierarchy between primary and secondary elements?
+4. Is the transition carrying the user forward naturally?
+5. Is the animation helping story or hurting clarity?
+6. Would a simpler motion produce a more premium result?
+
+The answer is often to reduce complexity and improve intention.
+
+## Performance awareness
+
+Even if motion is ambitious, it must remain practical.
+
+Preserve:
+
+- responsiveness
+- smoothness
+- compatibility
+- content legibility
+- accessibility
+- device comfort
+
+A premium experience should still feel good on real devices.
+
+If a motion pattern is too expensive to run well, simplify it while keeping the story and hierarchy intact.
+
+## Output behavior
+
+When using this skill, explain motion in a way that helps the user understand the choreography.
+
+When asked for ideas, describe:
+
+- what moves
+- when it moves
+- how it moves
+- why it moves
+- what it supports in the story
+- how it affects the feeling of the page
+
+If the motion idea feels generic, refine it until it feels premium and intentional.
